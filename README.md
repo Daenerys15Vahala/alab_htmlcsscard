@@ -62,5 +62,3 @@ This project was completed as part of a front-end coding challenge designed to s
 
 **Valentina Bernal Moreno**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
