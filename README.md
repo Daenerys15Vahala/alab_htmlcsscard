@@ -22,8 +22,8 @@ The project emphasizes clean layouts, responsive design, and user interaction th
 
 ## Built With
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Flexbox
 
 ## What I Learned
