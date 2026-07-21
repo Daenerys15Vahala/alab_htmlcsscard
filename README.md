@@ -13,7 +13,7 @@ The project emphasizes clean layouts, responsive design, and user interaction th
 ## Features
 
 - Responsive blog preview card
-- Semantic HTML5 structure
+- Semantic HTML structure
 - CSS Flexbox for layout and alignment
 - Hover and focus states for interactive elements
 - Clean typography and spacing
